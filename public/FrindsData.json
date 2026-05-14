@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah Jenkins",
+        "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+        "email": "s.jenkins@outlook.com",
+        "days_since_contact": 22,
+        "status": "Overdue",
+        "tags": [
+            "Marathon training",
+            "Former colleague"
+        ],
+        "bio": "Expert in digital marketing. We used to run half-marathons together every spring.",
+        "goal": 14,
+        "next_due_date": "2026-05-06"
+    },
+    {
+        "id": 2,
+        "name": "Marcus Thorne",
+        "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "email": "m.thorne88@gmail.com",
+        "days_since_contact": 3,
+        "status": "On-track",
+        "tags": [
+            "Childhood friend",
+            "Investor"
+        ],
+        "bio": "Grew up on the same street. Always has the best advice on angel investing and tech stocks.",
+        "goal": 30,
+        "next_due_date": "2026-06-11"
+    },
+    {
+        "id": 3,
+        "name": "Elena Rodriguez",
+        "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+        "email": "elena.rod@designstudio.io",
+        "days_since_contact": 6,
+        "status": "Almost due",
+        "tags": [
+            "Creative",
+            "Mentor"
+        ],
+        "bio": "UX Design Director. She mentored me during my first junior role in San Francisco.",
+        "goal": 7,
+        "next_due_date": "2026-05-15"
+    },
+    {
+        "id": 4,
+        "name": "David Chen",
+        "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200&h=200",
+        "email": "dchen_tech@protonmail.com",
+        "days_since_contact": 45,
+        "status": "Overdue",
+        "tags": [
+            "Gming",
+            "College"
+        ],
+        "bio": "Computer Science roommate. We spent way too many late nights playing StarCraft and eating ramen.",
+        "goal": 30,
+        "next_due_date": "2026-04-13"
+    },
+    {
+        "id": 5,
+        "name": "Amara Okafor",
+        "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200&h=200",
+        "email": "amara.o@globalhealth.org",
+        "days_since_contact": 2,
+        "status": "On-track",
+        "tags": [
+            "Volunteer",
+            "Travel"
+        ],
+        "bio": "Met while volunteering in Ghana. She travels extensively for her work with the WHO.",
+        "goal": 60,
+        "next_due_date": "2026-07-12"
+    },
+    {
+        "id": 6,
+        "name": "Julian Vane",
+        "picture": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce",
+        "email": "jules.vane@artgallery.com",
+        "days_since_contact": 13,
+        "status": "Almost due",
+        "tags": [
+            "High school",
+            "Artist"
+        ],
+        "bio": "A talented oil painter. We've kept in touch since graduation through our shared interest in surrealism.",
+        "goal": 14,
+        "next_due_date": "2026-05-15"
+    },
+    {
+        "id": 7,
+        "name": "Sophie Mueller",
+        "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "email": "sophie.m@berlintech.de",
+        "days_since_contact": 21,
+        "status": "On-track",
+        "tags": [
+            "Conference",
+            "Engineer"
+        ],
+        "bio": "Backend developer from Berlin. Met at a Python conference last year; great resource for system architecture.",
+        "goal": 90,
+        "next_due_date": "2026-07-23"
+    },
+    {
+        "id": 8,
+        "name": "Liam O'Connor",
+        "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+        "email": "liam.oc@irishpub.net",
+        "days_since_contact": 5,
+        "status": "On-track",
+        "tags": [
+            "Neighbor",
+            "Family friend"
+        ],
+        "bio": "Living next door for five years. He makes the best sourdough bread in the neighborhood.",
+        "goal": 10,
+        "next_due_date": "2026-05-19"
+    },
+    {
+        "id": 9,
+        "name": "Priya Sharma",
+        "picture": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2",
+        "email": "psharma@financelab.com",
+        "days_since_contact": 10,
+        "status": "Overdue",
+        "tags": [
+            "Book club",
+            "Close friend"
+        ],
+        "bio": "Avid reader and financial analyst. We both love historical fiction and discuss books monthly.",
+        "goal": 7,
+        "next_due_date": "2026-05-11"
+    },
+    {
+        "id": 10,
+        "name": "Kenji Sato",
+        "picture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
+        "email": "k.sato@tokyo-design.jp",
+        "days_since_contact": 28,
+        "status": "Almost due",
+        "tags": [
+            "entrepreneur",
+            "Travel"
+        ],
+        "bio": "Professional street photographer based in Tokyo. Met during my solo trip to Japan in 2023.",
+        "goal": 30,
+        "next_due_date": "2026-05-16"
+    },
+    {
+        "id": 11,
+        "name": "Beatrice Thorne",
+        "picture": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+        "email": "b.thorne@lawfirm.com",
+        "days_since_contact": 1,
+        "status": "On-track",
+        "tags": [
+            "Cousin",
+            "Family"
+        ],
+        "bio": "My favorite cousin. She's a defense attorney and has the sharpest wit in the family.",
+        "goal": 14,
+        "next_due_date": "2026-05-27"
+    },
+    {
+        "id": 12,
+        "name": "Omar Al-Fayed",
+        "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6",
+        "email": "omar.fayed@startup.com",
+        "days_since_contact": 15,
+        "status": "Overdue",
+        "tags": [
+            "Entrepreneur",
+            "Gym buddy"
+        ],
+        "bio": "Founder of a green-tech startup. We used to hit the 6 AM gym sessions together before he moved.",
+        "goal": 7,
+        "next_due_date": "2026-05-06"
+    }
+]

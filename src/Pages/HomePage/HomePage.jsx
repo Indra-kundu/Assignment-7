@@ -1,3 +1,4 @@
+import AllFriends from "./AllFriends";
 import Banner from "./Banner";
 import Card from "./Card";
 
@@ -6,7 +7,7 @@ const HomePage = () => {
         <div>
             <Banner></Banner>
             <Card></Card>
-            <h2>Homepage</h2>
+            <AllFriends></AllFriends>
         </div>
     );
 };
