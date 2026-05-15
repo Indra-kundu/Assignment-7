@@ -1,16 +1,30 @@
-# React + Vite
+🛡️ KinKeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KinKeeper is a modern Relationship Management System (CRM) designed to help individuals stay connected with their inner circle. By combining data visualization with a clean, user-friendly interface, KinKeeper ensures you never lose track of your most valued friendships and family bonds.
 
-Currently, two official plugins are available:
+🧐 Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+In a world of constant digital noise, KinKeeper provides a dedicated space to manage personal connections. It allows users to view their network, track interaction history through a chronological timeline, and analyze social engagement through data-driven statistics.
 
-## React Compiler
+🚀 Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Frontend: React.js (utilizing the latest use hook for data fetching)
 
-## Expanding the ESLint configuration
+Styling: Tailwind CSS for a utility-first, responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Routing: React Router for seamless single-page navigation
+
+Tools: Vite, Figma (UI/UX Design), VS Code
+
+Data Handling: JSON-based local API simulation
+
+🔥 Key Features
+
+1. Interactive Friends Dashboard
+A responsive grid-based gallery that displays all your connections. It features dynamic routing, allowing you to click on any friend to view a detailed personal profile and interaction history.
+
+2. Real-time Friendship Analytics
+Leveraging data visualization, this feature provides a "Friendship Analytics" ring. It helps users quantify their social interactions and see at a glance which relationships are thriving and which need more attention.
+
+3. Smart Interaction Timeline
+A dedicated timeline view that organizes memories and past interactions chronologically. This ensures that every milestone, conversation, and shared event is documented and easily accessible.
